@@ -2,7 +2,7 @@
 
 I'm Vasanth Gopa, an Associate DevOps Engineer at SAP Labs India. I'm also a proud GSoC'19 Scholar and have previously served as an Outreach Program Admin at the Wikimedia Foundation.
 
-📧 You can reach me at: gopavasanth@gmail.com
+📧 You can reach me at: gopavasanth1999@gmail.com
 
 🌐 Connect with me on the web:
 - [Portfolio](https://gopavasanth.github.io/)
