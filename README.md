@@ -12,6 +12,8 @@ I'm Vasanth Gopa, an Associate DevOps Engineer at SAP Labs India. I'm also a pro
 
 Feel free to reach out to me if you have any questions or just want to connect!
 
+[![An image of @gopavasanth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gopavasanth)](https://holopin.io/@gopavasanth)
+
 <!--
 **gopavasanth/gopavasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
