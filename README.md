@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Vasanth Gopa, an Associate DevOps Engineer at SAP Labs India. I'm also a proud GSoC'19 Scholar and have previously served as an Outreach Program Admin at the Wikimedia Foundation.
+I'm Vasanth Gopa, a Software Engineer at American Express, previously worked as a DevOps Engineer at SAP Labs India. I'm also a proud GSoC'19 Scholar and have previously served as an Outreach Program Admin at the Wikimedia Foundation.
 
 📧 You can reach me at: gopavasanth1999@gmail.com
 
